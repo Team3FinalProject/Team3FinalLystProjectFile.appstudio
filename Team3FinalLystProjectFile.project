@@ -58,6 +58,14 @@
             "afterLogin",
             "afterLogin.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "recipeSelection",
+            "recipeSelection.json"
+          ]
         }
       ],
       "configxml": null,
