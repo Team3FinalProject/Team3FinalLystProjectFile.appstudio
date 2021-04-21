@@ -114,6 +114,14 @@
             "walmart",
             "walmart.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "wohlners",
+            "wohlners.json"
+          ]
         }
       ],
       "configxml": null,
